@@ -1,7 +1,7 @@
 # 🤖 Available Agents
 
 
-151 agents and growing — built by the community. 🚀
+A growing collection of   community-built AI agents.
 
 | # | Name | Description | Category |
 |---|---|---|---|
